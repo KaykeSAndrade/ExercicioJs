@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+
+
+
+
+#quadrado{
+    background-color: pink;
+    height: 350px;
+    width: 350px;
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+}
